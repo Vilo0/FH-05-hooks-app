@@ -1,7 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import { Padre } from './components/07-tarea-memo/Padre';
 
-import CallBackHook from './components/06-memos/CallBackHook';
+// import CallBackHook from './components/06-memos/CallBackHook';
 // import MemoHook from './components/06-memos/MemoHook';
 // import RealExampleRef from './components/04-useRef/RealExampleRef';
 // import Memorize from './components/06-memos/Memorize';
@@ -14,7 +15,7 @@ import CallBackHook from './components/06-memos/CallBackHook';
 // import HookApp from './HookApp';
 
 ReactDOM.render(
-    <CallBackHook />,
+    <Padre />,
   document.getElementById('root')
 );
 
