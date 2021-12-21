@@ -8,9 +8,9 @@ const NavBar = () => {
 
             <div className="collapse navbar-collapse" id="navbarNavAltMarkup">
                 <div className="navbar-nav">
-                    <NavLink activeClassName="active" className="nav-link" to="">Home</NavLink>
-                    <NavLink activeClassName="active" className="nav-link" to="about">About</NavLink>
-                    <NavLink activeClassName="active" className="nav-link" to="login">Login</NavLink>
+                    <NavLink activeclassname="active" className="nav-link" to="">Home</NavLink>
+                    <NavLink activeclassname="active" className="nav-link" to="about">About</NavLink>
+                    <NavLink activeclassname="active" className="nav-link" to="login">Login</NavLink>
                 </div>
             </div>
         </div>
