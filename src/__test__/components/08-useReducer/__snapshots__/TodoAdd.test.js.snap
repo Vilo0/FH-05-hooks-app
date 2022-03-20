@@ -1,0 +1,85 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en <TodoAdd /> NO debe de llamar addTODO 1`] = `
+<Fragment>
+  <h4>
+    Agregar Todo
+  </h4>
+  <hr />
+  <form
+    onSubmit={[Function]}
+  >
+    <input
+      autoComplete="false"
+      className="form-control"
+      name="description"
+      onChange={[Function]}
+      placeholder="Aprender ..."
+      type="text"
+      value=""
+    />
+    <button
+      className="btn btn-outline-primary mt-2 btn-block"
+      type="submit"
+    >
+      Agregar
+    </button>
+  </form>
+</Fragment>
+`;
+
+exports[`Pruebas en <TodoAdd /> NO debe de llamar handleAddTodo 1`] = `
+<Fragment>
+  <h4>
+    Agregar Todo
+  </h4>
+  <hr />
+  <form
+    onSubmit={[Function]}
+  >
+    <input
+      autoComplete="false"
+      className="form-control"
+      name="description"
+      onChange={[Function]}
+      placeholder="Aprender ..."
+      type="text"
+      value=""
+    />
+    <button
+      className="btn btn-outline-primary mt-2 btn-block"
+      type="submit"
+    >
+      Agregar
+    </button>
+  </form>
+</Fragment>
+`;
+
+exports[`Pruebas en <TodoAdd /> debe de mostrarse correctamente 1`] = `
+<Fragment>
+  <h4>
+    Agregar Todo
+  </h4>
+  <hr />
+  <form
+    onSubmit={[Function]}
+  >
+    <input
+      autoComplete="false"
+      className="form-control"
+      name="description"
+      onChange={[Function]}
+      placeholder="Aprender ..."
+      type="text"
+      value=""
+    />
+    <button
+      className="btn btn-outline-primary mt-2 btn-block"
+      type="submit"
+    >
+      Agregar
+    </button>
+  </form>
+</Fragment>
+`;
