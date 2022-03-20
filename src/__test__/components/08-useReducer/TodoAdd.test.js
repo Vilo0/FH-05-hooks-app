@@ -1,5 +1,4 @@
 import { shallow } from "enzyme";
-import { act } from "react-dom/test-utils";
 import TodoAdd from "../../../components/08-reducer/TodoAdd";
 
 describe('Pruebas en <TodoAdd />', () => {
